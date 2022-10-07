@@ -3,7 +3,7 @@
   "solution": {
     "name": "git-hooks-test-client-side-solution",
     "id": "0283cf0f-76e8-4a3f-9e16-993812d85f66",
-    "version": "1.0.0.1",
+    "version": "1.1.0.0",
     "includeClientSideAssets": true,
     "skipFeatureDeployment": true,
     "isDomainIsolated": false,
