@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.0",
+    "libraryName": "git-hooks-test",
+    "libraryId": "0283cf0f-76e8-4a3f-9e16-993812d85f66",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "git-hooks-test",
+    "solutionShortDescription": "git-hooks-test description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

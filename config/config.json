@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "git-hooks-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/gitHooks/GitHooksWebPart.js",
+          "manifest": "./src/webparts/gitHooks/GitHooksWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "GitHooksWebPartStrings": "lib/webparts/gitHooks/loc/{locale}.js"
+  }
+}

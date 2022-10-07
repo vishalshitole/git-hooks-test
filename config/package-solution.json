@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "git-hooks-test-client-side-solution",
+    "id": "0283cf0f-76e8-4a3f-9e16-993812d85f66",
+    "version": "1.0.0.1",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "git-hooks-test description"
+      },
+      "longDescription": {
+        "default": "git-hooks-test description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "git-hooks-test Feature",
+        "description": "The feature that activates elements of the git-hooks-test solution.",
+        "id": "ff6ba690-545e-4d85-8cb2-05179305491b",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/git-hooks-test.sppkg"
+  }
+}
